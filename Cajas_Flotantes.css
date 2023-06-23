@@ -1,0 +1,16 @@
+/*En este css podremos ver los codigos rgb para el color de las cajas flotantes, al igual que el tamaño de ellas mismas*/
+ 
+ body{ background-color:RGB(5, 145, 255);}
+ 
+ h1{background-color:RGB(102, 51, 220);color:black;text-align:center;border-radius:40px;} 
+ 
+ div{width:250px; height:140px; padding:40px; text-align:center; border-radius:40px;}
+ 
+ #Feid{background-color:RGB(235, 246, 10); float:left;}
+ 
+ #Ariana{background-color:RGB(164, 180, 58); float:right;}
+ 
+ #Weekend{background-color:RGB(124, 255, 132); float:left;}
+ 
+ #Rauw{background-color:RGB(21, 239, 189); float:right;}
+ 
